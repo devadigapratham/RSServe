@@ -1,10 +1,10 @@
-# RSS Feed Aggregator and Scraper 📡
+# RSS Feed Aggregator and Scraper 
 
-## 📖 Description
+## Description
 
 The RSS Feed Aggregator and Scraper is a blog aggregator service built in Go. This project showcases the construction of a RESTful API using Go, integrated with production-ready database tools such as PostgreSQL, SQLc, Goose, and pgAdmin. Unlike standard CRUD applications, this service features a long-running service worker that fetches data from remote locations over the internet, making it a robust solution for aggregating and scraping blog content.
 
-## 🌟 Features
+## Features
 
 - Sleek RESTful API built with the magic of Go.
 - Swift routing with chi router 🚦.
@@ -14,7 +14,7 @@ The RSS Feed Aggregator and Scraper is a blog aggregator service built in Go. Th
 - Keep tabs on your database kingdom with pgAdmin 🏰.
 - A diligent service worker that fetches data without breaking a sweat.
 
-## 🔧 Technologies Used
+## Technologies Used
 
 - Go
 - Chi router
@@ -23,7 +23,7 @@ The RSS Feed Aggregator and Scraper is a blog aggregator service built in Go. Th
 - pgAdmin
 - PostgreSQL
 
-## 🛠 Installation and Setup
+## Installation and Setup
 
 Follow these steps to get your aggregator up and running:
 
